@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    height: 15vh;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style: none;
+}
+nav{
+    width: 95%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.miriui{
+    display: flex;
+    font-size: 25px;
+    margin: 50%;
+    text-indent: 35px;
+    margin-left: 50px;
+}
+button{
+    width:2.8cm;
+    height: 5vh;
+    justify-content: space-around;
+    font-size: 15px;
+    text-align: center;
+    align-items: center;
+    margin-right: 50%;
+}
+.ru{
+    background-color: white;
+    color: aqua;
+    margin-left: 700%;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.ur{
+    background-color: rgb(219, 36, 67);
+    color: white;
+    margin-left: 700%;
+    font-size: 20px;
+    
+}
+
+
